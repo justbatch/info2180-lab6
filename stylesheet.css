@@ -1,0 +1,22 @@
+.main
+{
+    padding: 150px;
+    background-color: orange;
+}
+
+.sub
+{
+    margin-top: -100px;
+}
+
+form
+{
+    margin-top: 60px;
+    margin-left: 420px;
+    font-size: 40px;
+}
+
+body
+{
+    background-color: green;
+}
